@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dTEXEPn3dpDltsAF6VZ5Q5hEMyq4HJqxklowv4XFWyLogorW5k9p8WT1szQ321M+LBq+R84sAlcOCIY0ukydnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\juana\\OneDrive\\Área de Trabalho\\Desafio - Estacionamento\\DesafioFundamentos\\DesafioFundamentos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juana\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\juana\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\juana\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\juana\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
