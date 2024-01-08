@@ -17,6 +17,7 @@ Estacionamento es = new Estacionamento(precoInicial, precoPorHora);
 string opcao = string.Empty;
 bool exibirMenu = true;
 
+
 while (exibirMenu)
 {
     Console.Clear();

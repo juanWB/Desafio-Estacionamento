@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juana\\OneDrive\\Área de Trabalho\\Desafio - Estacionamento\\DesafioFundamentos\\DesafioFundamentos.csproj",
+      "projectUniqueName": "C:\\dev\\Desafio - Estacionamento\\Desafio-Estacionamento\\Sistema-Estacionamento\\DesafioFundamentos.csproj",
       "projectName": "DesafioFundamentos",
-      "projectPath": "C:\\Users\\juana\\OneDrive\\Área de Trabalho\\Desafio - Estacionamento\\DesafioFundamentos\\DesafioFundamentos.csproj",
+      "projectPath": "C:\\dev\\Desafio - Estacionamento\\Desafio-Estacionamento\\Sistema-Estacionamento\\DesafioFundamentos.csproj",
       "packagesPath": "C:\\Users\\juana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\juana\\OneDrive\\Área de Trabalho\\Desafio - Estacionamento\\DesafioFundamentos\\obj\\",
+      "outputPath": "C:\\dev\\Desafio - Estacionamento\\Desafio-Estacionamento\\Sistema-Estacionamento\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\juana\\AppData\\Roaming\\NuGet\\NuGet.Config"
